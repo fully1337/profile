@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fully1337/fully1337/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fully1337/fully1337/refs/heads/output/%E2%80%8Egithub-snake-dark.svg" alt="Snake animation" />
 
 ###
