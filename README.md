@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm John, a Brazillian Java & C++ starter 👋🏼:
-🛜 currently working on my friends server [redecrow](https://discord.gg/redecrow)<br>👨🏼‍🎓 and working on another friend project [ghost-injection](https://discord.gg/ZtAFmFynsP) <br>👨🏼‍💻 developer since december 2024 <br>🎬 starting a new project <i>Bypass for Ocean/Screenshare</i>
+🍕 Currently working on my friends server [redecrow](https://discord.gg/redecrow)<br>👨🏼‍🎓 And working on another friend project [ghost-injection](https://discord.gg/ZtAFmFynsP) <br>👨🏼‍💻 Developer since december 2024 <br>🎬 Starting a new project <i>Bypass for Ocean/Screenshare</i>
 
 
 # 💻 Tech Stack:
